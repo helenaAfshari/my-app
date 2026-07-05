@@ -1,7 +1,7 @@
 import image1 from "./asset/img/copuchino.jpg"
 import image2 from "./asset/img/latte.jpg"
 
-const coffeMenu = [
+export const coffeMenu = [
     {
         id:1,
         name:"کاپوچینو کلاسیک",
@@ -38,3 +38,4 @@ const coffeMenu = [
     },
 
 ]
+
