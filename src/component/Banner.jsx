@@ -23,7 +23,7 @@ export default function Banner() {
                احساس خستگی شود. قهوه در فرهنگ‌های مختلف جایگاه ویژه‌ای دارد و
                 از گذشته تاکنون به عنوان نمادی از دورهمی، گفتگو
                  و آرامش شناخته شده است.</p>
-            <button className='mx-2 bg-cream px-4 rounded-3xl text-gray-950 text-4xl lg:h-60 shadow-lg shadow-cream'>
+            <button className='mx-2 bg-cream px-4 rounded-3xl text-gray-950 text-4xl lg:h-24 shadow-lg shadow-cream'>
           ثبت سفارش
         </button>
         </div>

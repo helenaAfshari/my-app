@@ -4,6 +4,8 @@ import Hero from './component/Hero';
 import Banner from './component/Banner';
 import Menu from './component/menu';
 import WhyUs from './component/WhyUs'
+import CoffeeBanner from './component/CoffeBanner'
+import Customer from './component/customer'
 function App() {
   return (
     <div>
@@ -12,6 +14,8 @@ function App() {
       <Banner/>
       <Menu/>
       <WhyUs/>
+      <CoffeeBanner/>
+      <Customer/>
     </div>
   );
 }

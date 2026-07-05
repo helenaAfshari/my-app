@@ -15,7 +15,7 @@ export default function Hero() {
          </p>
       </div>
       <div>
-        <button className='mx-2 bg-cream px-4 rounded-3xl text-gray-950 text-4xl h-40 shadow-lg shadow-cream'>
+        <button className='mx-2 bg-cream px-4 rounded-3xl text-gray-950 text-4xl h-24 shadow-lg shadow-cream'>
           ثبت سفارش
         </button>
       </div>
