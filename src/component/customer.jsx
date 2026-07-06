@@ -17,7 +17,6 @@ export default function customer() {
        <div className='text-center my-8'>
             <h4 className='text-5xl font-bold text-amber-900 mb-4'>نظریات مشتریان در مورد ما</h4>
             <p className='text-gray-600 text-3xl'>مشتریان که از خدمات ما رضایت داشته اند  برخی نظرات ان ها را در زیر مشاهده کنید</p>
-      
          <div>
             {/* <img className='absolute right-0 top-[-100px] w-[30vh]
             lg:w-[60vh] lg:right-[-100px] ' src={blast} alt="" /> */}
